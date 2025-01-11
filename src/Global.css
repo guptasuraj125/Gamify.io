@@ -19,3 +19,4 @@ body {
     z-index: 9999; /* Ensure it's above other elements */
   }
   
+  background-image: linear-gradient(rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.1)), linear-gradient(to right, #3b0a45, #720e53);
